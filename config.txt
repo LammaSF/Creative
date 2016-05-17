@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 <html>
 	<div>
 		Zdraveite
 	</div>
 </html>
+
+Lamma
+These are not the droids you're looking for.
+
+
+>>>>>>> 854127a8c8ee875166a85a4e3883a72d312d5452
