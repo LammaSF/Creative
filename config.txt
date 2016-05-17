@@ -1,18 +1,1 @@
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-Hello Kitty
-
-
-The cookie is a lie.
-
-
-
-You shall not pass this exam :D
-
-is that you
-=======
->>>>>>> origin/master
-=======
-RIP Config.txt :(
->>>>>>> origin/master
+Reborned config.txt
