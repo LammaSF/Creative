@@ -11,13 +11,13 @@ namespace _4.Exact_Sum_of_Real_Numbers
         static void Main(string[] args)
         {
 
-            double sum = double.Parse(Console.ReadLine());
+            decimal n = decimal.Parse(Console.ReadLine());
 
-            double sum = (double)(0.0);
+            decimal sum = (decimal)(0.0);
 
             for (int i = 0; i < n; i++)
             {
-                sum += double.Parse(Console.ReadLine());
+                sum += decimal.Parse(Console.ReadLine());
             }
             Console.WriteLine(sum);
 
