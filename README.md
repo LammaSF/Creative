@@ -1,1 +1,1 @@
-# Creative
+# Creative= Logic+Mind
