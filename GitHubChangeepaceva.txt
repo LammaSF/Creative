@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-Zdrasti 
-Kak si
-dobre ti
-=======
 Zdrasti 
 Kak si
 dobre ti
 A ti 
->>>>>>> origin/master
