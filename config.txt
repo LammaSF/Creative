@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Lamma
 These he droids you're looking 
@@ -13,3 +14,9 @@ You shall not pass this exam :D
 
 Hello again!
 
+=======
+Reborned config.txt
+>>>>>>> origin/master
+
+
+hahah 
