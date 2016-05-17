@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello 
 Lamma
 These he droids you're looking 
@@ -7,3 +8,17 @@ Hello Kitty
 Liverpool is the best s
 
 The cookie is a lie.
+=======
+Hello 
+Lamma
+These he droids you're looking 
+
+Hello Kitty
+
+
+The cookie is a lie.
+
+
+
+You shall not pass this exam :D
+>>>>>>> origin/master
