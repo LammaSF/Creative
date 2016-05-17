@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 Hello Kitty
@@ -11,4 +12,7 @@ You shall not pass this exam :D
 
 is that you
 =======
+>>>>>>> origin/master
+=======
+RIP Config.txt :(
 >>>>>>> origin/master
